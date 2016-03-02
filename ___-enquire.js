@@ -1,8 +1,8 @@
 /*
    
-  rs-deploi-enquire.js
+  ___-enquire.js
 
-  Theme Name: RS
+  
   Author: Simon van Stipriaan
   Author URI: htttp://svs.design
 
